@@ -7,6 +7,7 @@ public class HelloGit {
         System.out.println("你好git");
         System.out.println("你好git");
         //你好git
+        //修改你好git
     }
     public void add(){
         int s=0;
